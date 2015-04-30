@@ -1,0 +1,4 @@
+files' path:
+	C:\xampp\htdocs\webapps\vcontrol
+url address:
+	http://localhost/ebapps/vcontrol/
